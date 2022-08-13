@@ -1,0 +1,67 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.App {
+  text-align: center;
+}
+.card {
+  height: 780px;
+  width: 317px;
+
+  background: #1a1b21;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.main {
+  color: white;
+}
+.frontend {
+  color: #f3bf99;
+}
+.laura {
+  margin-top: 2%;
+}
+.button {
+  margin-top: 7%;
+  width: 247px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 34px;
+  border-radius: 6px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4%;
+}
+.contenu {
+  padding: 7%;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: left;
+  font-size: 11px;
+  width: 247px;
+}
+.contenu h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.footer {
+  margin-top: 14%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 64px;
+  width: 317px;
+  background-color: #161619;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.footer img {
+  height: 25px;
+  width: 25px;
+}
